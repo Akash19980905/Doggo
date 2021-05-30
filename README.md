@@ -1,2 +1,1 @@
-# Doggo
-A tinder for dogs
+TinDog Starting Files
